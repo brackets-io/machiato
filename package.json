@@ -1,0 +1,20 @@
+{
+    "title": "Machiato Libre",
+    "name": "Machiato Libre",
+    "description": "Inspired by my trusty favorite Espresso Libre from Sublime Text",
+    "version": "0.0.1",
+    "author": "Christopher Peddecord",
+    "homepage": "https://github.com/cpeddecord/machiato",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:cpeddecord/machiato"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "machiato.css",
+        "dark": true
+    }
+}
