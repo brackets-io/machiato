@@ -1,11 +1,11 @@
 /* SWATCHES ---------------------------------------------------------------------- */
 
 span.cm-atom		{ color: #585cf6; }/**/
-span.cm-link		{ color: #fff; }
+span.cm-link		{ color: #43a8ed; }
 span.cm-string		{ color: #049b0a; }/**/
 
 span.cm-attribute	{ color: #43a8ed; font-style: italic; margin-right: 2px;}/**/
-span.cm-bracket		{ color: #fff; }
+span.cm-bracket		{ color: #bdae9d; }
 span.cm-builtin     { color: #bdae9d; }/**/
 span.cm-meta		{ color: #687687; }/**/
 span.cm-qualifier	{ color: #bdae9d; }/*6279de*/
@@ -75,13 +75,13 @@ span.cm-number		{ color: #44aa43; }/**/
 
 /* Matching */
 
-.CodeMirror-matchingbracket {  
-    background:  #79635a !important;
+.CodeMirror-matchingbracket {
+    background:  #4e413b !important;
     color: #bdae9d !important;
 }
 
 .CodeMirror-matchingtag {
-    background:  #3A312C !important;
+    background:  #4e413b !important;
     border-bottom: 1px solid #584b42 !important;
 }
 
